@@ -1,0 +1,2 @@
+
+const dailyGoal = 10;
